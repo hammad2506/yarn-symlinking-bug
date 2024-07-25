@@ -1,0 +1,6 @@
+{
+  "name": "yarn-bug-workspace",
+  "dependencies": {
+    "react": "17"
+  }
+}
